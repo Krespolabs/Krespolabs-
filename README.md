@@ -42,7 +42,7 @@ I'm always expanding my knowledge and exploring new technologies to build even b
 
 
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/krespo-samson-onuh-80a1b018b/) or through my projects.
+Feel free to connect with me on [LinkedIn] (https://linkedin.com/in/onuh-samson) or through my projects.
 
 
 
