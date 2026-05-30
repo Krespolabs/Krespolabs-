@@ -1,52 +1,34 @@
-# Hi there, I'm Krespo (Samson Onuh) 👋
+# Hi, I'm Krespo (Samson Onuh) 👋
 
+Android developer specializing in Kotlin, Jetpack Compose, Firebase, and Clean Architecture.
 
+Solo founder of Lovinex — a luxury dating app built for Africa at scale. Running Krespo Labs, building AI-powered digital products, prompt systems, and developer tools.
 
-I'm a passionate developer focused on building innovative solutions. My expertise lies in creating robust and scalable web applications.
+Location: Lagos, Nigeria
 
+---
 
+## What I'm Building
 
-## 🚀 My Projects
+Lovinex Android — Luxury dating app for Africa — Kotlin, Jetpack Compose, Firebase — https://github.com/Krespolabs/Lovinex-Android
 
+Lovinex Web — Dating web experience — Next.js, TypeScript — https://github.com/Krespolabs/Lovinex
 
+KrespoAI Hub — AI tools for African creators — React, Vite — https://github.com/Krespolabs/Krespoai-hub
 
-*   **Lovinex:** A modern dating website built with TypeScript. [View Project](https://github.com/gonzalomiguel771-creator/Lovinex) | [Live Demo](https://lovinex.vercel.app)
-*   
-*   **Krespoai-hub:** Nigeria-first AI SaaS platform for creators and entrepreneurs, developed with JavaScript. [View Project](https://github.com/gonzalomiguel771-creator/Krespoai-hub) | [Live Demo](https://krespoai-hub.vercel.app)
-*   
+---
 
+## Tech Stack
+- Mobile: Kotlin, Jetpack Compose, Android SDK
+- Backend: Firebase, Firestore, Cloud Functions
+- Web: Next.js, React, TypeScript
+- AI: Claude API, OpenAI, Prompt Engineering
+- Tools: Git, Vercel, Netlify
 
-## 🛠️ Skills & Technologies
+---
 
+## Connect
+LinkedIn: https://linkedin.com/in/onuh-samson
+Website: https://krespoai.netlify.app
 
-
-*   **Languages:** TypeScript, JavaScript
-*   
-*   **Frontend:** React, HTML, CSS
-*   
-*   **Backend:** Node.js (implied by web apps)
-*   
-*   **Tools:** Git, GitHub, Vercel
-*   
-
-
-## 🌱 I'm currently learning
-
-
-
-I'm always expanding my knowledge and exploring new technologies to build even better applications.
-
-
-
-## 📫 How to reach me
-
-
-
-Feel free to connect with me on [LinkedIn] (https://linkedin.com/in/onuh-samson) or through my projects.
-
-
-
-
-
-
-
+Portfolio PDF: https://github.com/Krespolabs/Krespolabs-/blob/main/docs/portfolio_samson_onuh.pdf
