@@ -28,7 +28,7 @@ KrespoAI Hub — AI tools for African creators — React, Vite — https://githu
 ---
 
 ## Connect
-LinkedIn: https://linkedin.com/in/onuh-samson
+LinkedIn: https://linkedin.com/in/onuh-samson-4658aa2a2
 Website: https://krespoai.netlify.app
 
 Portfolio PDF: https://github.com/Krespolabs/Krespolabs-/blob/main/docs/portfolio_samson_onuh.pdf
